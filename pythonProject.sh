@@ -8,4 +8,4 @@ git init &&
 git add . &&
 git commit -m "Initializing project" &&
 source ./.venv/bin/activate &&
-code ./
+code .
