@@ -1,7 +1,9 @@
 sudo apt update && sudo apt full-upgrade
 
-sudo apt install git
+sudo apt install git -y
 
 sudo apt install tree -y
 sudo apt install openssh-server -y
 sudo apt install jq -y
+sudo apt install neofetch -y
+sudo apt install cmatrix -y
