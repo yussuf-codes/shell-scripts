@@ -7,3 +7,4 @@ sudo apt install openssh-server -y
 sudo apt install jq -y
 sudo apt install neofetch -y
 sudo apt install cmatrix -y
+sudo apt install vlc-bin -y
