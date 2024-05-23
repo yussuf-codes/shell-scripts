@@ -8,5 +8,6 @@ sudo apt install jq -y
 sudo apt install neofetch -y
 sudo apt install cmatrix -y
 sudo apt install vlc -y
+sudo apt install gnome-boxes -y
 
 sudo snap install spotify
