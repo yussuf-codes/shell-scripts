@@ -1,5 +1,6 @@
 sudo apt update && sudo apt full-upgrade
 
+sudo apt install ffmpeg -y
 sudo apt install git -y
 sudo apt install gh -y
 sudo apt install tree -y
