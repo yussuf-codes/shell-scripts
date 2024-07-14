@@ -8,7 +8,7 @@ fi
 
 mkdir $HOME/bin/dotnet-sdk-8-linux-x64
 
-wget -q -P $HOME/downloads -O dotnet-sdk-8-linux-x64.tar.gz $1
+curl $1 -o $HOME/downloads/dotnet-sdk-8-linux-x64.tar.gz
 
 tar zxf $HOME/downloads/dotnet-sdk-8-linux-x64.tar.gz -C $HOME/bin/dotnet-sdk-8-linux-x64
 
