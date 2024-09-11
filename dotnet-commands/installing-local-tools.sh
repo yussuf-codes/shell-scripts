@@ -1,2 +1,2 @@
 dotnet new tool-manifest
-dotnet tool install <tool_name>
+dotnet tool install <Tool Name>

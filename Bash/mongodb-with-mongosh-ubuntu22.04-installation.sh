@@ -1,3 +1,5 @@
+#!/bin/bash
+
 wget -q -P ~/Downloads https://repo.mongodb.org/apt/ubuntu/dists/jammy/mongodb-org/7.0/multiverse/binary-amd64/mongodb-org-server_7.0.11_amd64.deb
 sudo dpkg -i ~/Downloads/mongodb-org-server_7.0.11_amd64.deb
 
