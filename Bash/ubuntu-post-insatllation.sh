@@ -11,4 +11,4 @@ sudo apt install jq -y
 sudo apt install neofetch -y
 sudo apt install openssh-server -y
 sudo apt install tree -y
-sudo apt install vlc -y
+sudo apt install yt-dlp -y
