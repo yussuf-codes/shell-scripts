@@ -1,3 +1,3 @@
-dotnet user-secrets --project <Project Directory> init
+dotnet user-secrets --project <PROJECT_DIRECTORY> init
 
-dotnet user-secrets --project <Project Directory> set "ConnectionStrings:DefaultConnection" "<SQL Server Connection String>"
+dotnet user-secrets --project <PROJECT_DIRECTORY> set "ConnectionStrings:DefaultConnection" "<SQL_SERVER_CONNECTION_STRING>"

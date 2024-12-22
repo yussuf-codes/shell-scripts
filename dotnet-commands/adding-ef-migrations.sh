@@ -1,1 +1,1 @@
-dotnet-ef migrations add <Migration Name>
+dotnet-ef migrations add <MIGRATION_NAME>
