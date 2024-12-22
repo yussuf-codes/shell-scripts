@@ -1,11 +1,11 @@
 #!/bin/bash
 
-if [ ! -d ~/downloads/ ]; then
-	mkdir ~/downloads/
+if [ ! -d ~/downloads ]; then
+	mkdir ~/downloads
 fi
 
-if [ ! -d ~/bin/ ]; then
-	mkdir ~/bin/
+if [ ! -d ~/bin ]; then
+	mkdir ~/bin
 fi
 
 mkdir ~/bin/dotnet-sdk-9-linux-x64
