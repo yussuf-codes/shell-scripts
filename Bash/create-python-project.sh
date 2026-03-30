@@ -10,4 +10,4 @@ curl https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore -o
 git init &&
 git add . &&
 git commit -m "Initial commit" &&
-source ./.venv/bin/activate &&
+source ./.venv/bin/activate
